@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kathi Hoebel / Home"
 title_separator          : "-"
 name                     : &name "Katharina Hoebel"
 description              : &description "Making AI work for healthcare"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kathi Hoebel"
-  avatar           : "profile.png"
+  avatar           : "Kathi.png"
   bio              : "Making AI work for healthcare"
   location         : "Boston, MA"
   employer         :
