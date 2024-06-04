@@ -14,10 +14,7 @@ My research is centered on developing AI models that cater to the specific needs
  
 Currently, my primary focus lies in leveraging the capabilities of ML models to emulate complex patterns within medical data. Drawing inspiration from work in drug discovery and interpretability, I aim to employ these models to enhance our understanding of complex diseases such as cancer.
 
-ups
-
-
-You can download my current CV here [Download my CV](downloads/CV_KHoeble.pdf)
+You can download my current CV here [Download my CV](downloads/CV_KHoebel.pdf)
 
 This homepage is still in development - more to follow soon
 
