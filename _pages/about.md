@@ -8,14 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the lab of Kun-Hsing Yu in the Department of Biomedical Informatics at Harvard Medical School in Boston. Previously, I completed my PhD in Medical Engineering and Medical Physics in the Harvard-MIT Division of Health Sciences and Technology at MIT under the guidance of Prof Jayashree Kalpathy-Cramer. From 2023 to 224, I was a Research Fellow in the Department of Data Science at Dana-Farber Cancer Institute in Boston. I also hold an MD from Heidelberg University Medical School and a BS in Physics with a minor in Computer Science from Kiel University in Germany.
- 
-My research is centered on developing AI models that cater to the specific needs of our healthcare systems. I firmly believe that making a meaningful impact on healthcare providers and patients, requires the development of models guided by domain expertise and a user-centered approach. 
- 
-Currently, my primary focus lies in leveraging the capabilities of ML models to emulate complex patterns within medical data. Drawing inspiration from work in drug discovery and interpretability, I aim to employ these models to enhance our understanding of complex diseases such as cancer.
+I am a Postdoctoral Research Fellow in the lab of Kun-Hsing Yu in the Department of Biomedical Informatics at Harvard Medical School in Boston. Previously, I completed my PhD in Medical Engineering and Medical Physics in the Harvard-MIT Division of Health Sciences and Technology at MIT under the guidance of Prof Jayashree Kalpathy-Cramer. From 2023 to 2024, I was a Research Fellow in the Department of Data Science at Dana-Farber Cancer Institute in Boston. I also hold an MD from Heidelberg University Medical School and a BS in Physics with a minor in Computer Science from Kiel University in Germany.
 
-You can download my current CV here [Download my CV](https://kathihoebel.github.io/downloads/CV_KHoebel.pdf)
+My research focuses on developing AI methods that are clinically meaningful, robust, and aligned with real-world healthcare workflows. I am particularly interested in combining technical innovation with domain expertise so that models can support clinicians and improve patient outcomes.
 
-This homepage is still in development - more to follow soon
+## Research Areas
 
+I am currently building a research program around three connected themes:
 
+1. **Disease modeling from complex clinical and molecular data**  
+   Building machine learning models that can represent biological and clinical heterogeneity in diseases such as cancer.
+2. **Interpretability and trust in medical AI**  
+   Designing methods that help clinicians understand model behavior and identify when predictions are reliable.
+3. **Translation to healthcare practice**  
+   Creating AI systems that are tailored to clinical needs, fit existing workflows, and can be evaluated for practical impact.
+
+*Detailed research pages are in development and will be added here soon.*
+
+## Current Focus
+
+- Developing methods that emulate complex patterns in medical data using ideas inspired by drug discovery and representation learning.
+- Studying how to evaluate model usefulness beyond accuracy, including relevance to clinical decision-making.
+- Framing AI development through a user-centered lens so that tools are useful to providers and patients.
+
+## Selected Work in Context
+
+For a full list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=UpGsAykAAAAJ).
+
+Recent work has focused on:
+
+- Applying machine learning to complex clinical and pathology data.
+- Understanding model behavior in high-stakes healthcare settings.
+- Building foundations for responsible and effective deployment in oncology-focused workflows.
+
+## CV and Contact
+
+You can download my current CV here: [Download my CV](https://kathihoebel.github.io/downloads/CV_KHoebel.pdf).
+
+I am always happy to connect about potential collaborations in medical AI and computational oncology.
