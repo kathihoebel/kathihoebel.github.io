@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the lab of Kun-Hsing Yu in the Department of Biomedical Informatics at Harvard Medical School in Boston. Previously, I completed my PhD in Medical Engineering and Medical Physics in the Harvard-MIT Division of Health Sciences and Technology at MIT under the guidance of Prof Jayashree Kalpathy-Cramer. From 2023 to 2024, I was a Research Fellow in the Department of Data Science at Dana-Farber Cancer Institute in Boston. I also hold an MD from Heidelberg University Medical School and a BS in Physics with a minor in Computer Science from Kiel University in Germany.
+I am a Postdoctoral Research Fellow in the lab of Prof Kun-Hsing Yu in the Department of Biomedical Informatics at Harvard Medical School in Boston. Previously, I completed my PhD in Medical Engineering and Medical Physics in the Harvard-MIT Division of Health Sciences and Technology at MIT under the guidance of Prof Jayashree Kalpathy-Cramer. From 2023 to 2024, I was a Research Fellow in the Department of Data Science at Dana-Farber Cancer Institute in Boston. I also hold an MD from Heidelberg University Medical School and a BS in Physics with a minor in Computer Science from Kiel University in Germany.
 
 My research focuses on developing AI methods that are clinically meaningful, robust, and aligned with real-world healthcare workflows. I am particularly interested in combining technical innovation with domain expertise so that models can support clinicians and improve patient outcomes.
 
@@ -25,24 +25,12 @@ I am currently building a research program around three connected themes:
 
 *Detailed research pages are in development and will be added here soon.*
 
-## Current Focus
-
-- Developing methods that emulate complex patterns in medical data using ideas inspired by drug discovery and representation learning.
-- Studying how to evaluate model usefulness beyond accuracy, including relevance to clinical decision-making.
-- Framing AI development through a user-centered lens so that tools are useful to providers and patients.
-
-## Selected Work in Context
-
 For a full list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=UpGsAykAAAAJ).
 
-Recent work has focused on:
 
-- Applying machine learning to complex clinical and pathology data.
-- Understanding model behavior in high-stakes healthcare settings.
-- Building foundations for responsible and effective deployment in oncology-focused workflows.
 
 ## CV and Contact
 
 You can download my current CV here: [Download my CV](https://kathihoebel.github.io/downloads/CV_KHoebel.pdf).
 
-I am always happy to connect about potential collaborations in medical AI and computational oncology.
+I am always happy to connect about potential collaborations in medical AI, particularly in the oncology space.
